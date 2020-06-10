@@ -641,7 +641,7 @@ babel-plugin-syntax-exponentiation-operator@^6.8.0:
 
 babel-plugin-syntax-flow@^6.18.0:
   version "6.18.0"
-  resolved "http://registry.npmjs.org/babel-plugin-syntax-flow/-/babel-plugin-syntax-flow-6.18.0.tgz#4c3ab20a2af26aa20cd25995c398c4eb70310c8d"
+  resolved "https://registry.npmjs.org/babel-plugin-syntax-flow/-/babel-plugin-syntax-flow-6.18.0.tgz#4c3ab20a2af26aa20cd25995c398c4eb70310c8d"
   integrity sha1-TDqyCiryaqIM0lmVw5jE63AxDI0=
 
 babel-plugin-syntax-jsx@^6.18.0, babel-plugin-syntax-jsx@^6.8.0:
@@ -5781,9 +5781,9 @@ xterm-webfont@^1.1.1:
     fontfaceobserver "2.*"
 
 xterm@^3.5.1:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/xterm/-/xterm-3.5.1.tgz#d2e62ab26108a771b7bd1b7be4f6578fb4aff922"
-  integrity sha512-syTMd35T+gDXKkDfwZz8CC685OsSnRujXMO+3lYcD9U+dG3FShc+Ydx71IEjfYg7TYqD+qv6SU9KAKMuiAIiAg==
+  version "3.8.1"
+  resolved "https://registry.yarnpkg.com/xterm/-/xterm-3.8.1.tgz#0beabaccdc23bd3ab2397c5129ed9b06b0abb167"
+  integrity sha512-M8bKuibUOr07zReT+2XWQgwoHvBZpi8rkuiYMY+xstmMjfxtb3BgCTQMesmi2WEtmXQu6vIw6rg0v736KkLtQQ==
 
 yallist@^3.0.0, yallist@^3.0.2:
   version "3.0.2"
